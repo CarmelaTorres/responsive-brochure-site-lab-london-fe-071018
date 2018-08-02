@@ -1,13 +1,13 @@
 @media (max-width: 1108px) {
   body {
     font-family: helvetica;
-    padding: 150px
+    padding: 30px
   }
 }
 @media only screen and (max-width: 768px) {
    body {
     font-family: helvetica;
-    width: auto;
+    padding: 10px;
   }
   ul {
     list-style-type: none;
